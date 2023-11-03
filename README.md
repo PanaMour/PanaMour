@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGSIS4F9q62vA/profile-displaybackgroundimage-shrink_350_1400/0/1671493468783?e=1698883200&v=beta&t=uM72EPQo0oF0P0Gk1-HVLip17BNcngD3KYs4tCjOTHc)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Panagiotis Mourlas</h1>
 <h3 align="center">A passionate software/game developer from Greece</h3>
 
